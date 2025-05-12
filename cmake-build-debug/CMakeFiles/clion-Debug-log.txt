@@ -1,0 +1,4 @@
+/home/omar/.local/share/JetBrains/Toolbox/apps/clion/bin/cmake/linux/x64/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/home/omar/.local/share/JetBrains/Toolbox/apps/clion/bin/ninja/linux/x64/ninja -G Ninja -S /home/omar/Desktop/Home/Project_arch -B /home/omar/Desktop/Home/Project_arch/cmake-build-debug
+-- Configuring done (0.0s)
+-- Generating done (0.0s)
+-- Build files have been written to: /home/omar/Desktop/Home/Project_arch/cmake-build-debug
